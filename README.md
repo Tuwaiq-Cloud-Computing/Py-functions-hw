@@ -1,4 +1,4 @@
-# Py-functions-lab
+# Py-functions-hw - hw 3
 Question 1: Build a phone book program that receives the phone number, and returns the name of the owner.
 You can follow the table below:
 ## Schedule
